@@ -1,0 +1,54 @@
+Employee_ID,Full_Name,Department,Job_Title,Salary,Experience_Years,Hire_Date,Email
+101,John Smith,Engineering,Software Engineer,85000,5.0,2019-03-15,john.smith@example.com
+102,Jane Doe,  Engineering  ,Senior Developer,110000,8.0,2017-06-20,jane.doe@example.com
+103,Robert Chen,Sales,Sales Manager,95000,6.0,2018-11-05,robert.chen@example.com
+104,Emily Davis,  sales ,Sales Associate,55000,2.0,2021-01-15,emily.davis@example.com
+105,Michael Wilson,Human Resources,HR Specialist,62000,,2020-08-10,michael.w@example.com
+106,Sarah Connor,Marketing,Marketing Lead,88000,7.0,2016-04-12,sarah.c@example.com
+107,David Brown,ENGINEERING,DevOps Engineer,92000,4.0,2020-02-01,david.brown@example.com
+108,Lisa Taylor,Marketing,SEO Specialist,58000,3.0,2021-09-18,lisa.t@example.com
+109,James Wilson,Sales,Account Executive,72000,4.5,2019-12-01,james.w@example.com
+110,Amanda White,Human Resources,HR Director,125000,12.0,2014-01-10,amanda.white@example.com
+101,John Smith,Engineering,Software Engineer,85000,5.0,2019-03-15,john.smith@example.com
+111,Daniel Lee,Engineering,Data Engineer,-98000,5.0,2019-07-22,daniel.lee@example.com
+112,Patricia Harris,Finance,Financial Analyst,78000,4.0,2020-05-12,patricia.h@example.com
+113,Christopher Clark,  Finance  ,Finance Manager,115000,9.0,2015-10-30,c.clark@example.com
+114,Nancy Lewis,Marketing,Content Strategist,,3.0,2022-03-01,nancy.l@example.com
+115,Paul Walker,Engineering,Backend Developer,89000,4.0,2020-11-15,paul.w@example.com
+116,Sandra Hall,Sales,Sales Associate,-52000,1.5,2022-06-10,sandra.h@example.com
+117,Kevin Allen,Human Resources,Recruiter,60000,3.0,2021-04-05,kevin.a@example.com
+118,Ashley Young,Engineering,QA Analyst,68000,2.5,2021-08-20,ashley.y@example.com
+119,Brian King,Finance,Accountant,71000,,2019-05-14,brian.k@example.com
+120,Stephanie Wright,  marketing  ,Digital Marketer,64000,3.5,2020-10-08,stephanie.w@example.com
+103,Robert Chen,Sales,Sales Manager,95000,6.0,2018-11-05,robert.chen@example.com
+121,Jason Scott,Engineering,Frontend Developer,82000,4.0,2020-01-20,jason.s@example.com
+122,Nicole Green,Sales,Regional Director,140000,11.0,2013-09-15,nicole.g@example.com
+123,Jeffrey Adams,Finance,Senior Analyst,90000,6.0,2017-12-01,jeffrey.a@example.com
+124,Rachel Baker,Human Resources,HR Assistant,48000,1.0,2023-01-10,rachel.b@example.com
+125,Thomas Nelson,Engineering,Systems Architect,135000,10.0,2015-03-25,thomas.n@example.com
+126,Karen Carter,Marketing,Brand Manager,86000,6.0,2018-07-19,karen.c@example.com
+127,Steven Mitchell,Sales,Sales Associate,54000,2.0,2021-11-30,steven.m@example.com
+128,Donna Roberts,  Engineering  ,Software Engineer,,3.5,2020-04-15,donna.r@example.com
+129,Kenneth Turner,Finance,Financial Controller,130000,10.5,2014-08-22,kenneth.t@example.com
+130,Carol Phillips,Human Resources,Talent Lead,83000,7.0,2017-02-14,carol.p@example.com
+131,Mark Campbell,Marketing,Social Media Lead,61000,3.0,2021-02-28,mark.c@example.com
+132,Sandra Parker,Sales,Sales Representative,56000,2.0,2022-01-18,sandra.p@example.com
+133,George Evans,Engineering,Fullstack Developer,94000,5.0,2019-09-10,george.e@example.com
+134,Betty Edwards,Finance,Junior Analyst,59000,1.5,2022-08-05,betty.e@example.com
+135,Edward Collins,Human Resources,HR Specialist,,4.0,2019-10-12,edward.c@example.com
+136,Margaret Stewart,Marketing,Marketing Coordinator,53000,1.0,2022-11-01,margaret.s@example.com
+137,Ronald Sanchez,Engineering,DevOps Lead,118000,8.5,2016-11-15,ronald.s@example.com
+138,Dorothy Morris,Sales,Key Account Manager,98000,7.0,2017-05-20,dorothy.m@example.com
+139,Anthony Rogers,Finance,Tax Specialist,87000,5.5,2018-08-11,anthony.r@example.com
+140,Lisa Reed,Engineering,Security Engineer,105000,6.0,2018-03-30,lisa.r@example.com
+115,Paul Walker,Engineering,Backend Developer,89000,4.0,2020-11-15,paul.w@example.com
+141,Charles Cook,  Sales  ,Sales Associate,57000,2.0,2021-12-05,charles.c@example.com
+142,Helen Morgan,Marketing,PR Specialist,70000,4.5,2019-04-18,helen.m@example.com
+143,Frank Bell,Human Resources,Recruitment Manager,88000,6.5,2017-09-25,frank.b@example.com
+144,Gary Murphy,Finance,Auditor,81000,4.5,2019-06-12,gary.m@example.com
+145,Anna Rivera,Engineering,Mobile Developer,87000,4.0,2020-07-08,anna.r@example.com
+146,Raymond Cooper,Marketing,Growth Hacker,-75000,3.5,2020-09-14,raymond.c@example.com
+147,Brenda Richardson,Sales,Inside Sales Rep,51000,1.0,2022-10-20,brenda.r@example.com
+148,Gregory Cox,Human Resources,HR Business Partner,92000,7.5,2016-08-05,gregory.c@example.com
+149,Pamela Howard,Finance,Treasury Analyst,84000,5.0,2018-12-18,pamela.h@example.com
+150,Joshua Ward,Engineering,Cloud Engineer,102000,6.5,2017-10-10,joshua.w@example.com
